@@ -1,0 +1,2 @@
+Day 1-ex 2: the pull request from the forked repo has been accepted
+Day 1-ex 3: the changed jupyter notebook can be found in this repo named:minimal_changed.ipynb
